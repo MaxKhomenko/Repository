@@ -14,3 +14,7 @@ h1 {
 .lorem 50 {
   text-align: center;
 }
+
+.list {
+  float: right;
+}
