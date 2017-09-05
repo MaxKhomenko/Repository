@@ -10,3 +10,7 @@ h1 {
 #image {
   border: 2px solid yellow;
 }
+
+.lorem 50 {
+  text-align: center;
+}
