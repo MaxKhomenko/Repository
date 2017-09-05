@@ -18,3 +18,8 @@ text-align: center;
 .list-first {
 float: none;
 }
+
+
+.table {
+  width: 100%;
+}
